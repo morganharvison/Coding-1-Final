@@ -1,2 +1,4 @@
 # Coding-1-Final
  These are the starter files for F2020 Coding 1
+
+This website has images of historic landmarks in Italy. I added photos into the carousel by saving images under the img folder and including them in the img tag on the index file. I used the p tag to add my contact information and information about the website. I used the h1 tag for the page headers and the h2 tags for the footers at the bottom of each page. I also used the href tag to link the wesbite in the footers. I formatted the texts, headers, and links by creating classes and adding different styles for each class. I formatted the h1, h2, and p tags by creating different styles. I used the text-align style to format the picture on the About page.
